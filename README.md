@@ -58,12 +58,10 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Mock-Up
 
-![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./Assets/21-mern-homework-demo-01.gif)
+![21-mern-homework-demo-01](https://github.com/ryloaf/mern-book-search-challenge/assets/151485696/b8e0e05e-70d2-4f7d-a376-64cf18cead69)
+![21-mern-homework-demo-02](https://github.com/ryloaf/mern-book-search-challenge/assets/151485696/3f3c5e01-d580-4182-9f44-822cc0d4d88b)
+![Uploading 21-mern-homework-demo-03.gif…]()
 
-![Animation shows user clicking "Save This Book!" button to save books that appear in search results. The button label changes to "Book Already Saved" after it is clicked and the book is saved.](./Assets/21-mern-homework-demo-02.gif)
-
-![The Viewing Lernantino's Books page shows the books that the user Lernaninto has saved.](./Assets/21-mern-homework-demo-03.gif)
-
-  ## Credits & Links
+## Credits & Links
 
   © 2024 [Rylee Jolley](https://github.com/ryloaf)
