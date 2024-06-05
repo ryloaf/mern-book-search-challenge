@@ -60,7 +60,8 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ![21-mern-homework-demo-01](https://github.com/ryloaf/mern-book-search-challenge/assets/151485696/b8e0e05e-70d2-4f7d-a376-64cf18cead69)
 ![21-mern-homework-demo-02](https://github.com/ryloaf/mern-book-search-challenge/assets/151485696/3f3c5e01-d580-4182-9f44-822cc0d4d88b)
-![Uploading 21-mern-homework-demo-03.gif…]()
+![21-mern-homework-demo-03](https://github.com/ryloaf/mern-book-search-challenge/assets/151485696/c15f925b-f4f5-44cb-b591-9a4707f81d1a)
+
 
 ## Credits & Links
 
